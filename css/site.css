@@ -1,0 +1,13 @@
+.landing-body {
+  background-image: url('images/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.landing-banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
