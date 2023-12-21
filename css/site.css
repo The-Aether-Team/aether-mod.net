@@ -13,7 +13,9 @@
 }
 
 .landing-text {
-  font-family: Noto Sans, sans-serif;
+  font-family: Andale Mono, monospace;
   text-align: center;
   font-size: 150%;
+  color: rgb(180, 180, 180);
+  text-shadow: 1px 1px 3px black;
 }
