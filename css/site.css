@@ -11,3 +11,9 @@
   margin-right: auto;
   width: 50%;
 }
+
+.landing-text {
+  font-family: Noto Sans, sans-serif;
+  text-align: center;
+  font-size: 150%;
+}
